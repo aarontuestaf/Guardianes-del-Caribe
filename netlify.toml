@@ -1,0 +1,5 @@
+# Netlify build configuration
+# Sirve los archivos estáticos desde la raíz del repo.
+[build]
+  publish = "."
+  command = ""
